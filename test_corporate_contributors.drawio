@@ -2389,7 +2389,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="gaYyfEISsgAYSht7vUg3-77" value="manage corporate contributors form after" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="gaYyfEISsgAYSht7vUg3-1" vertex="1">
-          <mxGeometry x="500" y="4.5" width="250" height="40" as="geometry" />
+          <mxGeometry x="450" y="4.5" width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MUd_keqU-QG1xFmG_Pto-0" value="contributor added" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;sketch=1;curveFitting=1;jiggle=2;" parent="gaYyfEISsgAYSht7vUg3-1" vertex="1">
           <mxGeometry x="140" y="515" width="170" height="30" as="geometry" />
