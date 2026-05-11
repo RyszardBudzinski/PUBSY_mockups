@@ -710,7 +710,7 @@
             <mxGeometry height="30" width="160" x="980" y="255" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;font&gt;Type to add contributor&lt;/font&gt;" link="data:page/id,tSYElf03SKs-lNLKDKNf" id="haFVThb7sUIznmCSpgTL-16">
+        <UserObject label="&lt;font&gt;Type to add contributor&lt;/font&gt;" id="haFVThb7sUIznmCSpgTL-16">
           <mxCell parent="haFVThb7sUIznmCSpgTL-1" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=left;spacingLeft=35;fontSize=14;rectStyle=rounded;absoluteCornerSize=0;strokeColor=#CCCCCC;container=1;collapsible=0;fontColor=#999999;allowArrows=0;recursiveResize=0;fontStyle=2" vertex="1">
             <mxGeometry height="30" width="350" x="60" y="255" as="geometry" />
           </mxCell>
@@ -1739,7 +1739,7 @@
             <mxGeometry height="30" width="160" x="980" y="255" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;font&gt;Type to add contributor&lt;/font&gt;" link="data:page/id,tSYElf03SKs-lNLKDKNf" id="m9OLG0NPam-VAJTHfrKK-81">
+        <UserObject label="&lt;font&gt;Type to add contributor&lt;/font&gt;" id="m9OLG0NPam-VAJTHfrKK-81">
           <mxCell parent="SKzAYzYYO912C9xdApws-1" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=left;spacingLeft=35;fontSize=14;rectStyle=rounded;absoluteCornerSize=0;strokeColor=#CCCCCC;container=1;collapsible=0;fontColor=#999999;allowArrows=0;recursiveResize=0;fontStyle=2" vertex="1">
             <mxGeometry height="30" width="350" x="60" y="255" as="geometry" />
           </mxCell>
